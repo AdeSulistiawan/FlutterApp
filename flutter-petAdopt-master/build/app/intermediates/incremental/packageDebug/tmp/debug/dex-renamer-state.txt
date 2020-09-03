@@ -1,0 +1,4 @@
+#Wed Sep 02 12:58:45 ICT 2020
+base.0=D\:\\Learning\\FLUTTER\\App\\FlutterApp\\flutter-petAdopt-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
